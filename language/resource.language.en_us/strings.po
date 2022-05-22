@@ -568,7 +568,7 @@ msgid "No Timer"
 msgstr ""
 
 msgctxt "#31114"
-msgid "Now Playing"
+msgid "Spiel jetzt"
 msgstr ""
 
 #: /1080i/Includes_OSD.xml
